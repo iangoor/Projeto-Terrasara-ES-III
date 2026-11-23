@@ -332,11 +332,13 @@ Uso de transações permite testar cenários de rollback
 Disponíveis em /docs.
 
 👨‍💻 Autores
-Nome	E-mail
-Vinicius Kenzo Tomo	vinicius.tomo@aluno.cps.sp.gov.br
+
+Nome	                        E-mail
+Vinicius Kenzo Tomo            	vinicius.tomo@aluno.cps.sp.gov.br
 Leonardo Hideki Nakayama Silva	leonardo.silva97@aluno.cps.sp.gov.br
-Ian Goor	ian.goor@aluno.cps.sp.gov.br
-Isabella Monagatti Fujita	isabella.fujita@aluno.cps.sp.gov.br
+Ian Goor	                    ian.goor@aluno.cps.sp.gov.br
+Isabella Monagatti Fujita	    isabella.fujita@aluno.cps.sp.gov.br
+
 Orientadora: Prof.ª Elisabete Ferreira dos Santos Gomes Silva
 
 🏫 Instituição
