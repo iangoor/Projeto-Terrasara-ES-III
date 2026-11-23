@@ -200,7 +200,7 @@ No **USBWebserver v10**:
 ;extension=pdo_mysql
 
 ; depois
-extension=pdo_mysql****
+extension=pdo_mysql**
 
 
 Criar o banco de dados
